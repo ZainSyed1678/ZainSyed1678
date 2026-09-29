@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zain Wasim Syed 👋</h1>
+<h1 align="center">Hey, I'm Zain Syed 👋</h1>
 
 <p align="center">
   Developer exploring the intersection of AI, backend engineering, distributed systems, and system design.
